@@ -17,3 +17,5 @@ I now hold a Level 3 Diploma in teaching Mat Pilates. I’m also certified in Pr
 I see Pilates as a life enabler. I would like to help people enjoy their lives to the fullest, be active, injury-free, and feel stronger and healthier everyday. 
 
 I believe that my experience, passion, and overall enthusiastic nature make my classes challenging, varied, and fun. I’ve also been told that my lively personality has a motivational effect on individuals and my good communication skills work well with large groups.
+
+d
