@@ -1,7 +1,7 @@
 ---
 title: About Camelia Khalid
 permalink: "/about/"
-author_profile: true
+author_profile: egfegegf
 ---
 
 Hi! I’m a full time Pilates instructor based in Central London
