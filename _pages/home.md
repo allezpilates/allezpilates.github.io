@@ -17,13 +17,13 @@ Everybody is different and wants to achieve different goals, that's why I believ
 
 Here are some recent examples of clients I worked with:
  
-Mikhail: unhappy with his posture (forward head, rounding of the shoulders, slumping of the upper back and pelvic tilt). We did a postural assessment and worked once a week in private session and twice a week in group classes. We kept track of his posture improvements with regular postural assessments.
+> Mikhail: unhappy with his posture (forward head, rounding of the shoulders, slumping of the upper back and pelvic tilt). We did a postural assessment and worked once a week in private session and twice a week in group classes. We kept track of his posture improvements with regular postural assessments.
 
-Yassir: wants to build up core strength to prevent injuries in Brazilian Jiu-Jitsu. We did a fitness assessment and worked on bi-weekly core endurance training mixing HIIT, TRX and Pilates practice. We used a set of exercises to keep track of his improvements.
+> Yassir: wants to build up core strength to prevent injuries in Brazilian Jiu-Jitsu. We did a fitness assessment and worked on bi-weekly core endurance training mixing HIIT, TRX and Pilates practice. We used a set of exercises to keep track of his improvements.
 
-Siham: wants to build strength and mobility during her pregnancy. We did prenatal Pilates once a week and I gave her daily exercises to do on her own to strengthen her deep core muscles and pelvic floor and also we worked on upper body strength to prepare for the demand on the body when carrying a baby several hours a day.  
+> Siham: wants to build strength and mobility during her pregnancy. We did prenatal Pilates once a week and I gave her daily exercises to do on her own to strengthen her deep core muscles and pelvic floor and also we worked on upper body strength to prepare for the demand on the body when carrying a baby several hours a day.  
 
-Cecile: wants to stay active during the lockdown. We had Pilates twice a week, one in a group class setting and one 1:1 to focus on technique.
+> Cecile: wants to stay active during the lockdown. We had Pilates twice a week, one in a group class setting and one 1:1 to focus on technique.
 
 Together, we create a goal-oriented program and agree on the metrics we want to track. You will get access to a dashboard to keep track of your progress. 
 
