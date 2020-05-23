@@ -36,7 +36,6 @@ The first step is to have a chat to cover your physical condition, current and p
 # FAQ: 
 
 _How much does it cost?_
-
 - Initial consultation : free
 - Single Session : £35
 - Pack of 5 : £160 (£32 per session)
