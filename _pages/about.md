@@ -26,4 +26,4 @@ The sessions start with a warm up to mobilise the joints and increase the heart 
     
 ## Schedule:
 
-<iframe src="https://app.acuityscheduling.com/schedule.php?owner=19405285" title="Schedule Appointment" width="100%" height="800" frameBorder="0"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=19405285&appointmentType=category:Group%20Classes" width="100%" height="800" frameBorder="0"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
