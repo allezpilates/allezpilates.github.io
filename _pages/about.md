@@ -2,11 +2,6 @@
 title: About Camelia Khalid
 permalink: "/about/"
 author_profile: true
-feature_row:
-  - title: "Pilates are on Wednesdays at 7pm and Saturdays at 9:30am and 11am"
-    excerpt: "Pilates challenges your core stability, teaches you neutral alignment and connection to your breathing. The result is a balanced body that looks fit, feels revitalised and moves with ease."
-  - title: "HIIT sessions are on Mondays, Wednesdays and Fridays at 6pm."
-    excerpt: "The sessions start with a warm up to mobilise the joints and increase the heart rate followed up by HIIT circuits which will burn a lot of calories in a short amount of time and keep you in a high metabolic rate for hours."
 ---
 Hi! 
 
@@ -18,8 +13,15 @@ My joyful and enthusiastic nature make my classes challenging, varied and fun fo
 
 If you want to see my teaching style firsthand, join my small group online classes. My warm and dynamic approach makes my classes accessible and engaging for everyone.
 
-{% include feature_row %}
 
-##Schedule:
+### Pilates group classes
+Classes are on Wednesdays at 7pm and Saturdays at 9:30am and 11am
+Pilates challenges your core stability, teaches you neutral alignment and connection to your breathing. The result is a balanced body that looks fit, feels revitalised and moves with ease.
+
+### HIIT group sessions
+Sessions are on Mondays, Wednesdays and Fridays at 6pm.
+The sessions start with a warm up to mobilise the joints and increase the heart rate followed up by HIIT circuits which will burn a lot of calories in a short amount of time and keep you in a high metabolic rate for hours.
+    
+## Schedule:
 
 <iframe src="https://app.acuityscheduling.com/schedule.php?owner=19405285" title="Schedule Appointment" width="100%" height="800" frameBorder="0"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
