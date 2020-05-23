@@ -36,7 +36,7 @@ social:
 masthead_title: ''
 logo: "/assets/images/masthead-logo.png"
 email: 
-description: Allez Pilates offers exercise programs based on anatomy and biomechanics
+description: Allez Pilates offers goal-oriented exercise programs based on anatomy and biomechanics
   knowledge that deliver real results through a safe and effective framework.
 minimal_mistakes_skin: allez
 search: false
@@ -57,7 +57,7 @@ plugins:
 author:
   name: Camelia Khalid
   avatar: "/assets/images/bio-photo.jpg"
-  bio: I offer exercise programs based on anatomy and biomechanics knowledge which
+  bio: I offer goal-oriented programs based on anatomy and biomechanics knowledge which
     deliver real results through a safe and effective framework.
   links:
   - label: Facebook
