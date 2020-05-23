@@ -38,7 +38,6 @@ The first step is to have a chat to cover your physical condition, current and p
 _How much does it cost?_
 30-min consultation :	Free
 
-- Private sessions start at £35/h. 
 - Single Session : £35
 - Pack of 5 : £160 (£32 per session)
 - Pack of 10 : £280 (£28 per session)
