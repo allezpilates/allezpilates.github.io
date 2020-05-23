@@ -4,7 +4,7 @@ permalink: "/"
 layout: single
 header:
   og_image: "/assets/images/og-site-logo.png"
-  overlay_filter: rgba(0, 0, 0, 0.5)
+  overlay_color: rgb(250, 243, 144)
   actions:
   - label: Book a consultation now
     url: https://allezpilates.as.me/free30min-consultation
