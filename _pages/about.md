@@ -3,6 +3,7 @@ title: About Camelia Khalid
 permalink: "/about/"
 author_profile: true
 ---
+
 Hi! 
 
 I’m a French Moroccan fitness Instructor based in London, UK. Since 2016, I have honed a passion for helping others enjoy their lives to the fullest, be active, injury-free and feel stronger and healthier every day. 
