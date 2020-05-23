@@ -30,7 +30,7 @@ Together, we create a goal-oriented program and agree on the metrics we want to 
 The first step is to have a chat to cover your physical condition, current and past injuries and goals so I can establish if and how I can help you. 
 
 
-[Book a free 30 minute zoom consultation now](https://allezpilates.as.me/free30min-consultation){: .btn .btn--primary }
+[Book a free 30 minute zoom consultation now](https://allezpilates.as.me/free30min-consultation){: .btn .btn--primary }{: .text-center}
 
 
 # FAQ: 
