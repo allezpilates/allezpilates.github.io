@@ -15,11 +15,13 @@ If you want to see my teaching style firsthand, join my small group online class
 
 
 ### Pilates group classes
-Classes are on Wednesdays at 7pm and Saturdays at 9:30am and 11am
+Classes are on Wednesdays at 7pm and Saturdays at 9:30am and 11am.
+
 Pilates challenges your core stability, teaches you neutral alignment and connection to your breathing. The result is a balanced body that looks fit, feels revitalised and moves with ease.
 
 ### HIIT group sessions
 Sessions are on Mondays, Wednesdays and Fridays at 6pm.
+
 The sessions start with a warm up to mobilise the joints and increase the heart rate followed up by HIIT circuits which will burn a lot of calories in a short amount of time and keep you in a high metabolic rate for hours.
     
 ## Schedule:
