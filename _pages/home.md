@@ -37,9 +37,8 @@ The first step is to have a chat to cover your physical condition, current and p
 
 _How much does it cost?_
 - Initial consultation : free
-- Single Session : £35
-- Pack of 5 : £160 (£32 per session)
-- Pack of 10 : £280 (£28 per session)
+- Online Private Session : £35
+- Face To Face Private Session : £48
 
 _What’s a postural assessment?_ 
 In a postural assessment, we look at your static posture to see if there are any imbalances that could cause or are causing pain and discomfort.
