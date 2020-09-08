@@ -38,6 +38,7 @@ The first step is to have a chat to cover your physical condition, current and p
 _How much does it cost?_
 - Initial consultation : free
 - Online Private Session : £35
+- Class Recording : £15
 - Face To Face Private Session : £48
 
 _What’s a postural assessment?_ 
