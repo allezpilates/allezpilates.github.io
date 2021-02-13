@@ -4,9 +4,7 @@ permalink: "/about/"
 author_profile: true
 ---
 
-### Camelia, Owner & Founder of Allez Pilates
-
-Hi! 
+### Camelia, Owner & Founder of Allez Pilates 
 
 I’m a French Moroccan fitness Instructor based in London, UK. Since 2016, I have honed a passion for helping others enjoy their lives to the fullest, be active, injury-free and feel stronger and healthier every day. 
 
@@ -18,11 +16,11 @@ If you want to see my teaching style firsthand, join my small group online class
 
 ### Lisa, Head of training programs
 
-Growing up with a passion for fitness, Lisa has first-hand experience training for numerous competitive sport and endurance events in Australia. Through this, she has acquired a deep understanding of functional & varied training techniques which focus on correct technique, posture and muscular awareness to help clients achieve a better outcome in their fitness training and habitual lifestyle.
+Growing up with a passion for fitness, I have first-hand experience training for numerous competitive sport and endurance events in Australia. Through this, I have acquired a deep understanding of functional & varied training techniques which focus on correct technique, posture and muscular awareness to help clients achieve a better outcome in their fitness training and habitual lifestyle.
 
-Lisa believes that maintaining a strong core is at the heart of every movement and as a mum of two, she takes confidence that it was her committed Pilates practice that helped her to regain her strength.
+I believe that maintaining a strong core is at the heart of every movement and I take confidence that it was my committed Pilates practice that helped me to regain my strength after a winter sports injuty.
 
-Lisa’s training style is encouraging, results-driven and focused. She always hopes that her enthusiasm for Pilates, health and fitness will help to inspire clients on their own wellness journey.
+My training style is encouraging, results-driven and focused. I always hopes that my enthusiasm for Pilates, health and fitness will help to inspire clients on their own wellness journey.
 
 ### Pilates group classes
 Classes are on Wednesdays at 7pm and Saturdays at 9:30am and 11am.
