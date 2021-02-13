@@ -8,7 +8,7 @@ header:
   actions:
   - label: Book a consultation now
     url: https://allezpilates.as.me/free30min-consultation
-tagline: We offer exercise programs based on anatomy and biomechanics knowledge that deliver real results in a safe and effective framework
+tagline: We offer exercise programs based on anatomy and biomechanics knowledge that deliver real results in a safe and effective framework. Classes can be delivered over Zoom or face to face in our Lanzarote-based studio.
 ---
 
 Hi, 
