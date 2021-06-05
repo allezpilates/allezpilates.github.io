@@ -8,7 +8,7 @@ header:
   actions:
   - label: Book a consultation now
     url: https://allezpilates.as.me/free30min-consultation
-tagline: We offer exercise programs based on anatomy and biomechanics knowledge that deliver real results in a safe and effective framework. Classes can be delivered over Zoom or face to face in our Lanzarote-based studio.
+tagline: I offer exercise programs based on anatomy and biomechanics knowledge that deliver real results in a safe and effective framework. Classes can be delivered over Zoom or face to face in my studio in Islington.
 ---
 
 Hi, 
@@ -37,14 +37,14 @@ The first step is to have a chat to cover your physical condition, current and p
 
 _How much does it cost?_
 - Initial consultation : free
-- Online Private Session : £35
-- Class Recording : £15
-- Face To Face Private Session : £48
+- Online Private Session : £48
+- Class Recording : £8
+- Face To Face Private Session : £70
 
 _What’s a postural assessment?_ 
-In a postural assessment, we look at your static posture to see if there are any imbalances that could cause or are causing pain and discomfort.
+In a postural assessment, I look at your static posture to see if there are any imbalances that could cause or are causing pain and discomfort.
 
-_Why does it work?_ No Pills. No Shakes. No Gimmicks. We believe in evidence-based programs that show results quickly. Whatever your goal is, you should start to see results within 12 weeks.
+_Why does it work?_ No Pills. No Shakes. No Gimmicks. I believe in evidence-based programs that show results quickly. Whatever your goal is, you should start to see results within 12 weeks.
 
 _Do I have to do a consultation before booking sessions?_ No, you don’t have to but it’s free and it’s useful to get a picture of where you want to get. Up to you. 
 
