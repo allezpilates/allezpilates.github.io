@@ -39,7 +39,7 @@ _How much does it cost?_
 - Initial consultation : free
 - Online Private Session : £48
 - Class Recording : £8
-- Face To Face Private Session : £70
+- Face To Face Private Session : £60
 
 _What’s a postural assessment?_ 
 In a postural assessment, I look at your static posture to see if there are any imbalances that could cause or are causing pain and discomfort.
