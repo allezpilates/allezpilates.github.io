@@ -25,7 +25,7 @@ Here are some recent examples of clients we worked with:
 
 > Cecile: wants to stay active during the lockdown. We had Pilates twice a week, one in a group class setting and one 1:1 to focus on technique.
 
-Together, we create a goal-oriented program and agree on the metrics we want to track. You will get access to a dashboard to keep track of your progress. 
+Together, we create a goal-oriented program and agree on the metrics we want to track and we will review your progress every 8 to 12 weeks. 
 
 The first step is to have a chat to cover your physical condition, current and past injuries and goals so we can establish if and how we can help you. 
 
