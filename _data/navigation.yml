@@ -1,3 +1,5 @@
 main:
   - title: "About Camelia"
     url: /about/
+- title: "Book your session"
+    url: /private-sessions/
