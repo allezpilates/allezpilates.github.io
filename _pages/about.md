@@ -6,28 +6,17 @@ author_profile: true
 
 ### Camelia
 
-I’m a French Moroccan fitness Instructor based in London, UK. Since 2016, I have honed a passion for helping others enjoy their lives to the fullest, be active, injury-free and feel stronger and healthier every day. 
+Hi! I’m a French-Moroccan Pilates and TRX Instructor based in London. Since 2016, I have honed a passion for helping others enjoy their lives to the fullest, be active, injury-free and feel stronger and healthier every day. My joyful and enthusiastic nature make my classes challenging, varied and fun for beginners through to experienced students. I will motivate you to achieve your goals and you’ll always leave the class feeling more knowledgeable and empowered.
 
-I hold a Level 3 Diploma in teaching Mat Pilates and in TRX Suspension Training. I’m also certified in Principles of Exercise, Fitness and Health, as well as in Anatomy and Physiology for Exercise and Health. 
 
-I believe that maintaining a strong core is at the heart of every movement and I take confidence that it was my committed Pilates practice that helped me to regain my strength after a cycling injury.
+I hold a Level 3 Diploma in Mat and Reformer Pilates and a level 4 in Personal Training. I’m also certified in Ante and Postnatal Exercise, Principles of Exercise, Fitness and Health, as well as in Anatomy and Physiology for Exercise and Health. I did most of my Pilates certifications with STOTT Pilates®, the gold standard in the discipline. 
 
-My training style is encouraging, results-driven and focused. I always hopes that my enthusiasm for Pilates, health and fitness will help to inspire clients on their own wellness journey.
 
-My joyful and enthusiastic nature make my classes challenging, varied and fun for beginners through to experienced students. I will motivate you to achieve your goals. 
+Before I became a Pilates instructor, I worked in marketing for several international consultancies. My work and social life was hectic and took its toll on my body. Because I was very active, frequently running and biking, I didn’t think my back pain could be due to a weak core and I sustained bad posture as a result of my lack of postural awareness.
 
-If you want to see my teaching style firsthand, join my small group online classes. My warm and dynamic approach makes my classes accessible and engaging for everyone.
 
-### Pilates group classes
-Classes are on Wednesdays at 7pm and Saturdays at 9:30am and 11am.
+My favourite thing about Pilates is that it really gives you the tools you need to create better and freer body movements. With much of today’s careers consisting of sedentary and repetitive behaviour/tasks, incorporating more varied movements in our everyday routines is crucial to our health and longevity. I believe that maintaining a strong core is at the heart of every movement and I take confidence that it was my committed Pilates practice that helped me to live pain-free since 2016!
 
-Pilates challenges your core stability, teaches you neutral alignment and connection to your breathing. The result is a balanced body that looks fit, feels revitalised and moves with ease.
 
-### HIIT group sessions
-Sessions are on Mondays, Wednesdays and Fridays at 6pm.
+My training style is encouraging, results-driven and focused. I always hopes that my enthusiasm for Pilates, health and fitness will help to inspire clients on their own wellness journey. I am here to help you get moving more and better!
 
-The sessions start with a warm up to mobilise the joints and increase the heart rate followed up by HIIT circuits which will burn a lot of calories in a short amount of time and keep you in a high metabolic rate for hours.
-    
-## Schedule:
-
-<iframe src="https://app.acuityscheduling.com/schedule.php?owner=19405285&appointmentType=category:Group%20Classes" width="100%" height="800" frameBorder="0"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
