@@ -20,7 +20,7 @@ The first step is to have a chat to cover your physical condition, current and p
 [Book a free 30 minute zoom consultation now](https://allezpilates.as.me/free30min-consultation){: .btn .btn--primary }{: .text-center}
  
 > **Important Notice**: I am currently at Full Capacity!
-> I appreciate your interest, but I am unable to accept new clients at the moment. Please check back later for availability or send me an email to camelia@allezpilates.com for updates. Thank you for your understanding!
+> I appreciate your interest, but I am unable to accept new clients at the moment. Please send me an email to camelia@allezpilates.com for updates or check back in August for availability. 
 
 
 
