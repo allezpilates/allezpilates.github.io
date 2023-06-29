@@ -11,15 +11,15 @@ header:
 tagline: I offer exercise programs based on anatomy and biomechanics knowledge that deliver real results in a safe and effective framework. Classes can be delivered over Zoom or face to face in my studio in Islington.
 ---
 
-Hi, 
+Everybody is different and wants to achieve different goals, that's why I believe working 1:1 means getting a program matching your unique needs and abilities. 
 
-Everybody is different and wants to achieve different goals, that's why we believe working 1:1 means getting a program matching your unique needs and abilities. Together, we create a goal-oriented program and agree on the metrics we want to track and we will review your progress every 8 to 12 weeks. 
+Together, we create a goal-oriented program and agree on the metrics we want to track and we will review your progress every 8 to 12 weeks. 
 
 The first step is to have a chat to cover your physical condition, current and past injuries and goals so we can establish if and how we can help you. 
 
 [Book a free 30 minute zoom consultation now](https://allezpilates.as.me/free30min-consultation){: .btn .btn--primary }{: .text-center}
  
-> Important Notice: I am currently at Full Capacity!
+> **Important Notice**: I am currently at Full Capacity!
 > I appreciate your interest, but I am unable to accept new clients at the moment. Please check back later for availability or send me an email to camelia@allezpilates.com for updates. Thank you for your understanding!
 
 
