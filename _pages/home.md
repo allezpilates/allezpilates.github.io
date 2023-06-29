@@ -13,24 +13,17 @@ tagline: I offer exercise programs based on anatomy and biomechanics knowledge t
 
 Hi, 
 
-Everybody is different and wants to achieve different goals, that's why we believe working 1:1 means getting a program matching your unique needs and abilities. 
-
-Here are some recent examples of clients we worked with:
- 
-> Mikhail: unhappy with his posture (forward head, rounding of the shoulders, slumping of the upper back and pelvic tilt). We did a postural assessment and worked once a week in private session and twice a week in group classes. We kept track of his posture improvements with regular postural assessments.
-
-> Yassir: wants to build up core strength to prevent injuries in Brazilian Jiu-Jitsu. We did a fitness assessment and worked on bi-weekly core endurance training mixing HIIT, TRX and Pilates practice. We used a set of exercises to keep track of his improvements.
-
-> Siham: wants to build strength and mobility during her pregnancy. We did prenatal Pilates once a week and we gave her daily exercises to do on her own to strengthen her deep core muscles and pelvic floor and also we worked on upper body strength to prepare for the demand on the body when carrying a baby several hours a day.  
-
-> Cecile: wants to stay active during the lockdown. We had Pilates twice a week, one in a group class setting and one 1:1 to focus on technique.
-
-Together, we create a goal-oriented program and agree on the metrics we want to track and we will review your progress every 8 to 12 weeks. 
+Everybody is different and wants to achieve different goals, that's why we believe working 1:1 means getting a program matching your unique needs and abilities. Together, we create a goal-oriented program and agree on the metrics we want to track and we will review your progress every 8 to 12 weeks. 
 
 The first step is to have a chat to cover your physical condition, current and past injuries and goals so we can establish if and how we can help you. 
 
-
 [Book a free 30 minute zoom consultation now](https://allezpilates.as.me/free30min-consultation){: .btn .btn--primary }{: .text-center}
+ 
+> Important Notice: I Am Currently at Full Capacity! I appreciate your interest, but I am unable to accept new clients at the moment. Please check back later for availability or send me an email to camelia@allezpilates.com for updates. Thank you for your understanding!
+
+
+
+
 
 
 # FAQ: 
