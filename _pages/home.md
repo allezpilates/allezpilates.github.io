@@ -20,7 +20,6 @@ The first step is to have a chat to cover your physical condition, current and p
 [Book a free 30 minute zoom consultation now](https://allezpilates.as.me/free30min-consultation){: .btn .btn--primary }{: .text-center}
  
 
-
 # FAQ: 
 
 _How much does it cost?_
