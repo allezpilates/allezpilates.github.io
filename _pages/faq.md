@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: "/FAQ/"
+permalink: "/faq/"
 author_profile: true
 ---
 
