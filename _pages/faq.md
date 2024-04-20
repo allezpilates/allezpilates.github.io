@@ -4,8 +4,6 @@ permalink: "/faq/"
 author_profile: true
 ---
 
-# FAQ: 
-
 _How much does it cost?_
 - Initial consultation : free
 - Online Private Session : £48
