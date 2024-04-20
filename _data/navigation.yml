@@ -2,7 +2,7 @@ main:
   - title: "About Camelia"
     url: /about/
   - title: "FAQ"
-    url: /FAQ/
+    url: /faq/
   - title: "Book your session"
     url: /private-sessions/
 
