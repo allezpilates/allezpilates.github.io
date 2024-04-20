@@ -1,3 +1,8 @@
+---
+title: About Camelia
+permalink: "/about/"
+author_profile: true
+---
 
 # FAQ: 
 
