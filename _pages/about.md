@@ -4,17 +4,22 @@ permalink: "/about/"
 author_profile: true
 ---
 
-Hi! I’m a French-Moroccan Pilates and TRX Instructor based in London. Since 2016, I have honed a passion for helping others enjoy their lives to the fullest, be active, injury-free and feel stronger and healthier every day. My joyful and enthusiastic nature make my classes challenging, varied and fun for beginners through to experienced students. I will motivate you to achieve your goals and you’ll always leave the class feeling more knowledgeable and empowered.
+Welcome! I'm a French-Moroccan clinical Pilates instructor based in Islington, London.
 
+Since 2020, I've been dedicated to helping others lead active, injury-free lives, feeling stronger each day. My classes cater to all levels, offering a fun and challenging experience. You'll leave empowered and well-informed.
 
-I hold a Level 3 Diploma in Mat and Reformer Pilates and a level 4 in Personal Training. I’m also certified in Ante and Postnatal Exercise, Principles of Exercise, Fitness and Health, as well as in Anatomy and Physiology for Exercise and Health. I did most of my Pilates certifications with STOTT Pilates®, the gold standard in the discipline. 
+Previously, I worked in marketing, where a hectic lifestyle led to physical strains. Despite being active, I underestimated the impact of a weak core and poor posture on my back pain.
 
+Pilates has transformed my approach to health, teaching me the importance of proper movement. My training is supportive and goal-oriented, designed to inspire and enhance your wellness journey. Let's start moving better together!
 
-Before I became a Pilates instructor, I worked in marketing for several international consultancies. My work and social life was hectic and took its toll on my body. Because I was very active, frequently running and biking, I didn’t think my back pain could be due to a weak core and I sustained bad posture as a result of my lack of postural awareness.
+ualification:
+- Level 3 Diploma in Mat and Reformer Pilates
+- Level 4 Diploma in Personal Training
+- Level 2 Principles of Exercise, Fitness, and Health
+- Level 2 Anatomy and Physiology for Exercise and Health
+- Professionally trained by STOTT Pilates®
+- Clinical Pilates with BREATHE EDUCATION
 
-
-My favourite thing about Pilates is that it really gives you the tools you need to create better and freer body movements. With much of today’s careers consisting of sedentary and repetitive behaviour/tasks, incorporating more varied movements in our everyday routines is crucial to our health and longevity. I believe that maintaining a strong core is at the heart of every movement and I take confidence that it was my committed Pilates practice that helped me to live pain-free since 2016!
-
-
-My training style is encouraging, results-driven and focused. I always hopes that my enthusiasm for Pilates, health and fitness will help to inspire clients on their own wellness journey. I am here to help you get moving more and better!
-
+Specialisations:
+- Ante and Postnatal Exercise
+- Injury rehab, including ACL, back pain, total hip replacement, etc.
