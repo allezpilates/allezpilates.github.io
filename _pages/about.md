@@ -12,7 +12,7 @@ Previously, I worked in marketing, where a hectic lifestyle led to physical stra
 
 Pilates has transformed my approach to health, teaching me the importance of proper movement. My training is supportive and goal-oriented, designed to inspire and enhance your wellness journey. Let's start moving better together!
 
-ualification:
+Qualification:
 - Level 3 Diploma in Mat and Reformer Pilates
 - Level 4 Diploma in Personal Training
 - Level 2 Principles of Exercise, Fitness, and Health
