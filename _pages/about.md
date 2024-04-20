@@ -4,8 +4,6 @@ permalink: "/about/"
 author_profile: true
 ---
 
-### Camelia
-
 Hi! I’m a French-Moroccan Pilates and TRX Instructor based in London. Since 2016, I have honed a passion for helping others enjoy their lives to the fullest, be active, injury-free and feel stronger and healthier every day. My joyful and enthusiastic nature make my classes challenging, varied and fun for beginners through to experienced students. I will motivate you to achieve your goals and you’ll always leave the class feeling more knowledgeable and empowered.
 
 
