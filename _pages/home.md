@@ -7,7 +7,7 @@ header:
   overlay_color: rgb(74, 75, 103)
   actions:
   - label: Book a consultation now
-    url: https://allezpilates.as.me/free30min-consultation
+    url: https://allezpilates.as.me/free20min-consultation
 tagline: I offer exercise programs based on anatomy and biomechanics knowledge that deliver real results in a safe and effective framework. Classes can be delivered over Zoom or face to face in my studio in Islington.
 ---
 
@@ -17,4 +17,4 @@ Together, we create a goal-oriented program and agree on the metrics we want to 
 
 The first step is to have a chat to cover your physical condition, current and past injuries and goals so we can establish if and how we can help you. 
 
-[Book a free 30 minute zoom consultation now](https://allezpilates.as.me/free30min-consultation){: .btn .btn--primary }{: .text-center}
+[Book a free 20 minute zoom consultation now](https://allezpilates.as.me/free20min-consultation){: .btn .btn--primary }{: .text-center}
